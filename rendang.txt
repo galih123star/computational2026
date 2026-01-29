@@ -1,13 +1,13 @@
 # Rendang
 
 ## Ingredients
-# Chicken
-# Garlic Shallot
-# Chilli
-# Lemon grass
-# Lime leaves
-# Turmeric, Ginger, Galangal
+# 1. Chicken
+# 2. Garlic Shallot
+# 3. Chilli
+# 4. Lemon grass
+# 5. Lime leaves
+# 6. Turmeric, Ginger, Galangal
 
 ## Instructions
-# Boil the chicken
-# Chop garlic and shallot
+# 1. Boil the chicken
+# 2. Chop garlic and shallot
